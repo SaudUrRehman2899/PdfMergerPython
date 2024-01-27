@@ -1,1 +1,1 @@
-This my first project in Python to tell user weather of given city
+This App is very powerful and customizable through it we can merge pdfs but posibilities are endless
